@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run *)",
+      "Bash(mkdir -p \"C:\\\\Users\\\\EDU-016\\\\Desktop\\\\실습\\\\.claude\")"
+    ]
+  }
+}
